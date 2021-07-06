@@ -1,0 +1,26 @@
+#recipe{
+    display: flex;
+    width: 91%;
+    margin: auto;
+    
+    
+}
+
+img{
+    height: 150px;
+    width: 310px;
+    border-radius: 5px;
+    display: block;
+    justify-content: center;
+    margin: auto;
+    
+}
+
+.job{
+    background-color: aqua;
+    border: 2px solid green;
+    margin-left: 3%;
+    margin-right: 3%;
+    padding: 10px;
+    border-radius: 10px;
+}
